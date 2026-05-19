@@ -1,2 +1,2 @@
 # divine-wallet
-V14.0 
+V18.0 
